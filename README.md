@@ -1,4 +1,4 @@
-# CNN_Fire_Detector
+# Indoor_Fire_Detector
 
 This code designs and trains a convolutional neural network (CNN) to classify images as "Fire" or "No-Fire". It uses TensorFlow and Keras and is intended to support image-based fire detection research.
 
